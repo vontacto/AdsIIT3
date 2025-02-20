@@ -1,0 +1,22 @@
+2025-02-19 19:21:27,006 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-02-19 19:32:34,246 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bd.hospital:LPII_T3_RiosBenitesMario:0.0.1-SNAPSHOT @ C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\pom.xml.
+2025-02-19 19:32:36,783 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_T3_RiosBenitesMario/src/main/java
+2025-02-19 19:32:36,785 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_T3_RiosBenitesMario/src/main/resources
+2025-02-19 19:32:36,793 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_T3_RiosBenitesMario/src/main/resources
+2025-02-19 19:32:36,800 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_T3_RiosBenitesMario/src/test/java
+2025-02-19 19:32:36,801 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_T3_RiosBenitesMario/src/test/resources
+2025-02-19 19:32:38,807 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2025-02-19 19:32:38,809 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-02-19 19:32:39,076 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bd.hospital:LPII_T3_RiosBenitesMario:0.0.1-SNAPSHOT @ C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\pom.xml.
+2025-02-19 19:32:39,604 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_T3_RiosBenitesMario/src/main/java
+2025-02-19 19:32:39,605 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_T3_RiosBenitesMario/src/main/resources
+2025-02-19 19:32:39,606 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_T3_RiosBenitesMario/src/main/resources
+2025-02-19 19:32:39,607 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_T3_RiosBenitesMario/src/test/java
+2025-02-19 19:32:39,608 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_T3_RiosBenitesMario/src/test/resources
+2025-02-19 19:32:40,082 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-02-19 19:32:40,645 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 19:32:40,657 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 19:32:40,662 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
+2025-02-19 19:38:54,556 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 19:38:54,560 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 19:38:54,564 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
