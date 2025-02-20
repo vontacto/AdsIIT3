@@ -35,9 +35,13 @@ public class MedicoControlador {
 	
 	@GetMapping("/RegistrarMedico")
 	public String RegistrarMedico(Model modelo) {
+		//Agregamos los estados civiles
+		List<String> estadosCiviles = List.of("Soltero", "Casado", "Viudo");
 		//realizamos la respectiva instancia...
 		TblMedico tblmed = new TblMedico();
 		//enviamos hacia la vista...
+		
+		modelo.addAttribute("estadosCiviles", estadosCiviles);
 		modelo.addAttribute("regmedico", tblmed);
 		//retornamos al formulario...
 		return "/Vistas/FrmRegMedico";
@@ -57,11 +61,14 @@ public class MedicoControlador {
 	//***********EDITAR
 	@GetMapping("/editarmedico/{id}")
 	public String Editar(@PathVariable("id") Integer idmedicot3, Model modelo) {
+		//Agregamos los estados civiles
+		List<String> estadosCiviles = List.of("Soltero", "Casado", "Viudo");
 		//creamos un objeto de tipo tblmedico
 		TblMedico clmedico=imedicoservicio.buscarporId(idmedicot3);
 		//enviamos hacia la vista...
+		modelo.addAttribute("estadosCiviles", estadosCiviles);
 		modelo.addAttribute("regmedico", clmedico);
-		return "/Vistas/FrmRegMedico";
+		return "/Vistas/FrmEditMedico";
 	} // fin del metodo editar
 	
 	//***************ELIMINAR
