@@ -20,3 +20,27 @@
 2025-02-19 19:38:54,556 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-02-19 19:38:54,560 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-02-19 19:38:54,564 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
+2025-02-19 19:47:34,706 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 19:47:34,709 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 19:47:34,712 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
+2025-02-19 20:00:26,235 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 20:00:26,240 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 20:00:26,243 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
+2025-02-19 20:01:21,789 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 20:01:21,793 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 20:01:21,796 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
+2025-02-19 20:02:38,686 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 20:02:38,690 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 20:02:38,693 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
+2025-02-19 20:04:03,609 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 20:04:03,613 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 20:04:03,615 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
+2025-02-19 20:05:57,392 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 20:05:57,397 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 20:05:57,399 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
+2025-02-19 20:06:12,962 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 20:06:12,965 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 20:06:12,969 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources
+2025-02-19 20:19:13,425 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 20:19:13,434 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 20:19:13,437 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\merb0\OneDrive\Documents\Cibertec\4to ciclo\LENGUAJE DE PROGRAMACION II\T3\LPII_T3_RiosBenitesMario\src\test\resources

@@ -1,0 +1,5 @@
+package com.bd.hospital2025.servicio;
+
+public interface IMedicoServicio {
+
+}
